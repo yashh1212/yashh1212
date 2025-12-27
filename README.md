@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Om — <code>0ye0m</code></h1>
+<h1 align="center">👋 Hey, I'm Yash — <code>yashh1212</code></h1>
 <h3 align="center">Full-Stack Developer • 5x Hackathon Winner • ML & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
