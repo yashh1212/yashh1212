@@ -12,7 +12,7 @@ Full-Stack Developer • MERN Specialist • Hackathon Winner • GenAI & Cloud 
 ## 🚀 About Me
 
 - 👨‍💻 **Full-Stack Developer (MERN + Next.js)** with strong frontend focus  
-- 🏆 **5× Hackathon Winner** (Problem-solving under pressure)  
+- 🏆 **3× Hackathon Winner** (Problem-solving under pressure)  
 - 🤖 Building **GenAI-powered automation systems**  
 - 🔐 Exploring **Cybersecurity, Blockchain & Secure Systems**  
 - ☁️ Hands-on with **Cloud deployment & DevOps basics**  
