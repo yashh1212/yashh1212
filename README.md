@@ -164,26 +164,8 @@ Real-time AI-curated news delivery
 - **Stack:** Node.js · MCP · WhatsApp API · GenAI
 
 </td>
-<td width="50%">
 
-### 🔗 Blockchain Exam Proctoring
-Tamper-proof examination system
-- Blockchain-based result integrity
-- Real-time proctoring with role-based access
-- **Stack:** React · Node.js · Blockchain · Socket.IO
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 AI ATS Resume Builder
-Beat applicant tracking systems
-- LLM-powered keyword optimization
-- Resume scoring & gap analysis
-- **Stack:** React · GenAI · Node.js · PDF parsing
-
-</td>
 <td width="50%">
 
 ### 🏥 Hospital Management Website
