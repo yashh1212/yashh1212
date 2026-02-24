@@ -166,8 +166,6 @@ Real-time AI-curated news delivery
 - **Stack:** Node.js · MCP · WhatsApp API · GenAI
 
 </td>
-
-
 <td width="50%">
 
 ### 🏥 Hospital Management Website
@@ -204,7 +202,14 @@ End-to-end hospital platform
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashh1212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6366f1&text_color=ffffff&ring_color=6366f1" height="165"/>
+
+![](https://img.shields.io/badge/Total%20Contributions%20%282025--26%29-343-6EE7F7?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Status-Actively%20Coding%20Daily-6366f1?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashh1212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6366f1&text_color=ffffff&ring_color=6366f1&count_private=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashh1212&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6EE7F7" height="165"/>
 </div>
 
@@ -214,6 +219,19 @@ End-to-end hospital platform
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashh1212&theme=tokyo-night&bg_color=0d1117&color=6EE7F7&line=6366f1&point=f59e0b&area=true&hide_border=true" width="95%"/>
+</div>
+
+<div align="center">
+
+```
+📅 2025–26 Contribution Highlights
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Contributions  :  343
+  Most Active Months   :  Jan · Feb · Jul · Aug
+  Consistency          :  ████████████████░░░░  Active
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
 ---
