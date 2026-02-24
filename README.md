@@ -35,6 +35,7 @@ const yash = {
   currentlyBuilding: [
     "🤖 HR Agent — AI-powered hiring automation",
     "💼 Sales Agent — Groq + BANT + Email pipeline",
+    "🏗️ AI Code Architecture Q&A Agent — codebase-aware answer engine",
     "📊 Business Automation Suite with AI Agents",
   ],
   superPowers: [
@@ -54,8 +55,9 @@ const yash = {
 🔥 Building multi-agent AI systems (HR Agent, Sales Agent, News Agent)
 ⚡ Groq AI (llama-3.3-70b) — ultra-fast LLM inference for real-time agents
 🛠  Agentic tool calling — autonomous AI that takes actions, not just answers
+🏗️ AI Code Architecture Q&A — answer questions about any codebase intelligently
 ☁️  Cloud-ready microservices with Docker + AWS
-🔐 Cybersecurity engineering fundamentals (B.Tech focus)
+🔐 Computer Science engineering fundamentals (B.Tech focus)
 🧪 MCP Servers — Model Context Protocol for AI tool integration
 ```
 
@@ -87,6 +89,7 @@ const yash = {
 | 🟡 **Prompt Engineering** | Structured agent prompts & tool definitions |
 | 🔴 **MCP Servers** | Model Context Protocol integrations |
 | 🟢 **Agentic Tool Calling** | Autonomous multi-step AI agents |
+| 🏗️ **RAG + Vector Search** | Code-aware Q&A over architecture docs |
 
 ### 🗄️ Databases
 <p>
@@ -130,6 +133,17 @@ Autonomous B2B sales pipeline agent
 <tr>
 <td width="50%">
 
+### 🏗️ AI Code Architecture Q&A Agent
+Codebase-aware intelligent answer engine
+- Ask architecture, design & code questions in natural language
+- Understands project structure, patterns & dependencies
+- Context-aware answers grounded in your actual codebase
+- Powered by RAG — retrieves relevant code before answering
+- **Stack:** Node.js · Groq · RAG · Vector Search · LangChain
+
+</td>
+<td width="50%">
+
 ### 📩 Gmail AI Reply Agent
 Fully automated email management
 - Reads, classifies & replies to Gmail automatically
@@ -138,6 +152,8 @@ Fully automated email management
 - **Stack:** Python · Gemini AI · AWS Lambda · Gmail API
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📰 WhatsApp AI News Agent
@@ -148,8 +164,38 @@ Real-time AI-curated news delivery
 - **Stack:** Node.js · MCP · WhatsApp API · GenAI
 
 </td>
-</tr>
+<td width="50%">
 
+### 🔗 Blockchain Exam Proctoring
+Tamper-proof examination system
+- Blockchain-based result integrity
+- Real-time proctoring with role-based access
+- **Stack:** React · Node.js · Blockchain · Socket.IO
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 AI ATS Resume Builder
+Beat applicant tracking systems
+- LLM-powered keyword optimization
+- Resume scoring & gap analysis
+- **Stack:** React · GenAI · Node.js · PDF parsing
+
+</td>
+<td width="50%">
+
+### 🏥 Hospital Management Website
+End-to-end hospital platform
+- Patient record management & medical history tracking
+- Online appointment booking with doctor scheduling
+- Role-based access for doctors, staff & patients
+- Admin dashboard for hospital operations
+- **Stack:** React · Node.js · Express · MongoDB
+
+</td>
+</tr>
 </table>
 
 ---
@@ -163,7 +209,7 @@ Real-time AI-curated news delivery
 | 🥇 **3× Hackathon Winner** | Won across multiple national-level hackathons |
 | 🎓 **8.8 CGPA** | Diploma in Computer Engineering |
 | 🎓 **8.03 CGPA** | B.Tech Cybersecurity Engineering |
-| 🤖 **AI Agent Engineer** | Built production HR + Sales agents with Groq |
+| 🤖 **AI Agent Engineer** | Built production HR + Sales + Code Q&A agents with Groq |
 | ☁️ **Cloud Deployed** | Multiple apps live on AWS + Vercel + Netlify |
 | 🔐 **Security Focused** | Cybersecurity engineering specialization |
 
