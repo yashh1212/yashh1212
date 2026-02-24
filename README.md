@@ -30,7 +30,7 @@ const yash = {
   location:   "India 🇮🇳",
   education:  [
     "Diploma in Computer Engineering — 8.8 CGPA 🎓",
-    "B.Tech Cybersecurity Engineering — 8.29 SGPA 🎓",
+    "B.Tech Cybersecurity Engineering — 8.03 CGPA 🎓",
   ],
   currentlyBuilding: [
     "🤖 HR Agent — AI-powered hiring automation",
@@ -149,26 +149,7 @@ Real-time AI-curated news delivery
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### 🔗 Blockchain Exam Proctoring
-Tamper-proof examination system
-- Blockchain-based result integrity
-- Real-time proctoring with role-based access
-- **Stack:** React · Node.js · Blockchain · Socket.IO
-
-</td>
-<td width="50%">
-
-### 🧠 AI ATS Resume Builder
-Beat applicant tracking systems
-- LLM-powered keyword optimization
-- Resume scoring & gap analysis
-- **Stack:** React · GenAI · Node.js · PDF parsing
-
-</td>
-</tr>
 </table>
 
 ---
@@ -179,9 +160,9 @@ Beat applicant tracking systems
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
-| 🥇 **5× Hackathon Winner** | Won across multiple national-level hackathons |
+| 🥇 **3× Hackathon Winner** | Won across multiple national-level hackathons |
 | 🎓 **8.8 CGPA** | Diploma in Computer Engineering |
-| 🎓 **8.29 SGPA** | B.Tech Cybersecurity Engineering |
+| 🎓 **8.03 CGPA** | B.Tech Cybersecurity Engineering |
 | 🤖 **AI Agent Engineer** | Built production HR + Sales agents with Groq |
 | ☁️ **Cloud Deployed** | Multiple apps live on AWS + Vercel + Netlify |
 | 🔐 **Security Focused** | Cybersecurity engineering specialization |
