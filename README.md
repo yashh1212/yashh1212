@@ -35,17 +35,17 @@ const yash = {
     "B.Tech Cybersecurity Engineering — 8.03 CGPA 🎓",
   ],
   currentlyBuilding: [
-    "🤖 HR Agent — AI-powered hiring automation",
-    "💼 Sales Agent — Groq + BANT + Email pipeline",
-    "🏗️ AI Code Architecture Q&A Agent — codebase-aware answer engine",
-    "📊 Business Automation Suite with AI Agents",
+    "🤖 HR Agent — exploring AI-driven hiring workflows",
+    "💼 Sales Agent — Groq + BANT + email pipeline",
+    "🏗️ AI Code Q&A Agent — codebase-aware answer engine",
+    "📊 Business automation tools powered by AI agents",
   ],
-  superPowers: [
-    "Turning complex problems into clean systems",
-    "Shipping production-ready AI agents end-to-end",
-    "Winning hackathons under pressure 🏆",
+  interests: [
+    "Breaking down complex problems into clean, maintainable systems",
+    "Building AI agents that are actually useful in production",
+    "Learning fast under pressure — hackathons included 🏆",
   ],
-  funFact: "I automate the things I'm too smart to do manually ⚡",
+  funFact: "I'd rather spend an hour automating a task than five minutes doing it manually ⚡",
 };
 ```
 
