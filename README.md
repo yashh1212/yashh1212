@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/yashh1212">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+that+actually+work+%F0%9F%A4%96;MERN+%7C+Next.js+%7C+GenAI+%7C+Cloud;3%C3%97+Hackathon+Winner+%F0%9F%8F%86;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Automating+everything+I+can+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+that+actually+work+%F0%9F%A4%96;MERN+%7C+Next.js+%7C+GenAI+%7C+Cloud;2%C3%97+Hackathon+Winner+%F0%9F%8F%86;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Automating+everything+I+can+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ const yash = {
   location:   "India 🇮🇳",
   education:  [
     "Diploma in Computer Engineering — 8.8 CGPA 🎓",
-    "B.Tech Cybersecurity Engineering — 8.03 CGPA 🎓",
+    "B.Tech Cybersecurity Engineering — 8.01 CGPA 🎓",
   ],
   currentlyBuilding: [
     "🤖 HR Agent — exploring AI-driven hiring workflows",
@@ -188,7 +188,7 @@ End-to-end hospital platform
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
-| 🥇 **3× Hackathon Winner** | Won across multiple national-level hackathons |
+| 🥇 **2× Hackathon Winner** | Won across multiple national-level hackathons |
 | 🎓 **8.8 CGPA** | Diploma in Computer Engineering |
 | 🎓 **8.03 CGPA** | B.Tech Cybersecurity Engineering |
 | 🤖 **AI Agent Engineer** | Built production HR + Sales + Code Q&A agents with Groq |
